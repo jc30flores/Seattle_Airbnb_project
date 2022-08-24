@@ -29,3 +29,10 @@ Answer: Downtown, is the most expensive neighborhood, with a mean price of $154,
 
 - What are the busiest times of the year to visit Seattle? By how much do prices spike?
 Answer: July and August are the busiest month of the year. the average price increases up to 15% in these months.
+
+
+### Necessary Acknowledgments
+
+I didn't clean all the data, just the data I needed to answer the questions.
+
+There are also parts of the code that are commented out, because it isn't necessary for you to see, but it was necessary for me to worked with the data, so to avoid extra and cumbersome visualization, I decided to comment out those parts of the code.
