@@ -20,8 +20,9 @@ archive.zip ---> is the zip where are the originals files.
 
 
 ### Summary:
-The questions to be investigated were
-1- Can you describe the vibe of each Seattle neighborhood using listing descriptions?
+The questions to be investigated were:
+
+- Can you describe the vibe of each Seattle neighborhood using listing descriptions?
 Answer: The vibe of the neighborhoods in Seattle is good and the score mean review of each neighborhood is 9, more than expected.
 
 - Which neighborhood is the most expensive?
