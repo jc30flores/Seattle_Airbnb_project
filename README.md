@@ -37,3 +37,6 @@ Answer: July and August are the busiest month of the year. the average price inc
 I didn't clean all the data, just the data I needed to answer the questions.
 
 There are also parts of the code that are commented out, because it isn't necessary for you to see, but it was necessary for me to worked with the data, so to avoid extra and cumbersome visualization, I decided to comment out those parts of the code.
+
+
+This is the link for my Blog Post on Medium: https://medium.com/@jc.30flores/3-things-you-need-to-know-before-visiting-seattle-ee050e1b7faf
